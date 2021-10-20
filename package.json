@@ -1,0 +1,22 @@
+{
+  "name": "luis-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camronh/Luis-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camronh/Luis-API/issues"
+  },
+  "homepage": "https://github.com/camronh/Luis-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
