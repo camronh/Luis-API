@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "luis-api-executor",
+    "name": "luis-api",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "887lz6nyvc"
+  }
+}

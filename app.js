@@ -20,9 +20,9 @@ app.get("/randomWord", async function (req, res) {
 });
 
 // Start Server
-app.listen(port, function () {
-  console.log("listening on http://localhost:" + port);
-});
+// app.listen(port, function () {
+//   console.log("listening on http://localhost:" + port);
+// });
 
 // Include this line to use claudia
 module.exports = app;
